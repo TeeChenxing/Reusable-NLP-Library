@@ -6,7 +6,7 @@ from NLP_classes import NLP_reusable
 from NLP_parsers import json_parser
 import os
 
-data = "test_data"
+data = "dataset"
 
 
 def main():
